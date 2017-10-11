@@ -3230,7 +3230,7 @@ var ACPlatforms = {
             this.options = $.extend(this.options, searchoptions);
             var defaultOptions = {
                 showcontaineroninit: true,
-                watermarklinkdefault: "https://sivabv.github.io",
+                watermarklinkdefault: "https://mprathyu.github.io",
                 watermarktargetdefault: "_blank",
                 previewmode: false,
                 direction: "horizontal",
