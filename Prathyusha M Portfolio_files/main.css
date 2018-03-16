@@ -397,12 +397,12 @@ li.dribbble {
 
 .card-dropbox-ios {
   background: #ffed95 url('../images/image-card-dropbox-ios.png') center bottom no-repeat;
-  background-size: 190px;
+  background-size: 285px;
 }
 
 .card-dropbox-north-star {
   background: #e2f2fd url('../images/image-card-dropbox.png') center center no-repeat;
-  background-size: 375px;
+  background-size: 250px;
 }
 
 .card-atlassian-adg {
