@@ -419,6 +419,10 @@ li.dribbble {
   background: #c3f7ee url('../images/image-card-swoot.png') center bottom no-repeat;
   background-size: 238px;
 }
+.fcb {
+  background: #c3f7ee url('../images/image-card-swoot.png') center bottom no-repeat;
+  background-size: 80%;
+}
 
 
 /* Videos */
