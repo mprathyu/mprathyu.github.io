@@ -694,6 +694,7 @@ p.border{
     top:25px;
     border: 1px dotted;
     box-sizing: border-box;
+    
 }
 .container--cell .curve {
     font-size: 40px;
