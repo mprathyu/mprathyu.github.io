@@ -689,6 +689,7 @@ p.border{
 
 .container--row {
     height: 300px;
+
 }
 
 .container--cell {
@@ -696,6 +697,9 @@ p.border{
     height: 100%;
     float: left;
     position:relative;
+    top:25px;
+    border: 1px dotted;
+    box-sizing: border-box;
 }
 .container--cell .curve {
     font-size: 40px;
